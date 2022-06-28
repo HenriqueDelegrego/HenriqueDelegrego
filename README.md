@@ -3,7 +3,7 @@
 
 <h1> ndkubhndfkubhnufd </h1>
 
-<a href = "https://instagram.com" target="_blank"> Link pro insta </a>
+<a href="https://www.instagram.com/" target="_blank">Link pro insta</a> 
 
 
 **HenriqueDelegrego/HenriqueDelegrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
